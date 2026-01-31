@@ -1,4 +1,4 @@
-# Juan Pablo Lertora
+# kernelcero
 
 I am a Python developer and tech enthusiast focused on building high-performance, private, and local systems. My philosophy is simple: **Understand the tool, own the process.**
 
